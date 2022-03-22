@@ -10,12 +10,16 @@ verde="\033[1;32m"
 
 
 echo -e $negro "                                        "
+echo -e $negro "                                        "
 echo "██╗██████╗     ██╗███╗   ██╗███████╗ ██████╗"
 echo "██║██╔══██╗    ██║████╗  ██║██╔════╝██╔═══██╗"
 echo "██║██████╔╝    ██║██╔██╗ ██║█████╗  ██║   ██║"
 echo "██║██╔═══╝     ██║██║╚██╗██║██╔══╝  ██║   ██║"
 echo "██║██║         ██║██║ ╚████║██║     ╚██████╔╝"
 echo "╚═╝╚═╝         ╚═╝╚═╝  ╚═══╝╚═╝      ╚═════╝"
+echo "Creado por: https://github.com/GeerxOS"
+echo "Visita mis otros scripts"
+echo -e $negro " "
 echo "CTR+C Para salir"
 read -p "Dame la ip: " ip
 echo -e $verde "                      "
